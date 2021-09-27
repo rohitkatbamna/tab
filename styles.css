@@ -1,0 +1,12 @@
+table, th, td {
+  border: 1px solid blue;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: Lucida Console, Courier, monospace;
+}
+thead{
+  background-color: orange;
+}
+html{
+  background-color: cornsilk;
+}
